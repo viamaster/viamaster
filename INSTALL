@@ -1,0 +1,9 @@
+Building Viata
+
+See doc/readme-qt.rst for instructions on building Viata-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Viata.
+
+See doc/build-*.txt for instructions on building Viata,
+the intended-for-services, no-graphical-interface, reference
+implementation of Viata.
