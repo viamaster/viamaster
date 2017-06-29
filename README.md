@@ -1,7 +1,5 @@
 Viata (via)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/Viata.png?branch=master)](https://travis-ci.org/RazorLove/Viata)
+Crypto currency with distribution in social networks and forums, connected as a system for accepting payments.
 
-
-Scrypt Hashcash PoW Template
